@@ -5,7 +5,7 @@ Implementation of the bash script used to analyze basic server performance stats
 ### Step 1: Clone the repository
 ```
 git clone https://github.com/schneider-aidan/Devops_Scripts.git
-cd Server_performance_stats
+cd Devops_Scripts/Server_performance_stats
 ```
 
 ### Step 2: Make the script executable
