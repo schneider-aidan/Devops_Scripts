@@ -1,5 +1,5 @@
 # Server_Performance_Stats
-Implementation of the bash script used to analyze basic server performance stats described at: https://roadmap.sh/projects/server-stats
+Implementation of the bash script used to analyze basic server performance stats described at: [Roadmap.sh](https://roadmap.sh/projects/server-stats)
 
 ## Usage
 ### Step 1: Clone the repository
